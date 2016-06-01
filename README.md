@@ -1,5 +1,5 @@
-Experimenting with `_Generic()` for parametric constness
-========================================================
+Experimenting with `_Generic()` for parametric constness in C11
+===============================================================
 
 One of the new features in C99 was `tgmath.h`, the type-generic
 mathematics libraty. (See section 7.22 of
